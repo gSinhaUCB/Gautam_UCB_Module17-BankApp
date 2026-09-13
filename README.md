@@ -1,9 +1,12 @@
-# Gautam_UCB_Module17-BankApp
+**UC Berkeley Executive Program in Artificial Intelligence & Machine Learning**  
+**Module 17 Practical Application III**
+
 Comparing machine learning classifiers on Portuguese bank telemarketing deposit campaigns
 # Bank Telemarketing Classification: Optimizing Long-Term Deposit Subscriptions
 
 ## Executive Summary
 This project analyzes direct telemarketing campaigns conducted by a Portuguese banking institution (sourced from the UC Irvine Machine Learning Repository). The primary business objective is to predict whether a client will subscribe to a term deposit (`y = "yes"` vs. `y = "no"`). By accurately scoring and ranking prospective leads before dialing, the institution can maximize deposit acquisition while minimizing operational call center fatigue.
+
 
 ## Key Findings & Business Insights
 1. **The Realistic Predictor Constraint (`duration`):**
